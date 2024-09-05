@@ -1,0 +1,227 @@
+{
+    "mountains": [
+        {
+            "city": "Leh-Ladakh",
+            "places": [
+                {
+                    "name": "Pangong Lake",
+                    "description": "A stunning lake surrounded by mountains.",
+                    "latitude": 33.7275,
+                    "longitude": 78.4758,
+                    "exact_location": "Pangong Lake, Leh-Ladakh"
+                },
+                {
+                    "name": "Khardung La",
+                    "description": "One of the highest motorable passes in the world.",
+                    "latitude": 34.2806,
+                    "longitude": 77.6089,
+                    "exact_location": "Khardung La, Leh-Ladakh"
+                }
+            ]
+        },
+        {
+            "city": "Nepal-Tibet Border",
+            "places": [
+                {
+                    "name": "Everest",
+                    "description": "The highest mountain in the world.",
+                    "latitude": 27.9881,
+                    "longitude": 86.9250,
+                    "exact_location": "Mount Everest, Nepal-Tibet Border"
+                }
+            ]
+        },
+        {
+            "city": "Sikkim",
+            "places": [
+                {
+                    "name": "Kangchenjunga",
+                    "description": "The third highest mountain in the world.",
+                    "latitude": 27.7027,
+                    "longitude": 88.1476,
+                    "exact_location": "Kangchenjunga, Sikkim"
+                }
+            ]
+        },
+        {
+            "city": "Tibet",
+            "places": [
+                {
+                    "name": "Kailash",
+                    "description": "A sacred mountain in Hinduism and Buddhism.",
+                    "latitude": 31.0403,
+                    "longitude": 81.3131,
+                    "exact_location": "Mount Kailash, Tibet"
+                }
+            ]
+        },
+        {
+            "city": "Nepal",
+            "places": [
+                {
+                    "name": "Annapurna",
+                    "description": "A prominent mountain range in the Himalayas.",
+                    "latitude": 28.5980,
+                    "longitude": 83.8204,
+                    "exact_location": "Annapurna Range, Nepal"
+                }
+            ]
+        },
+        {
+            "city": "Uttarakhand",
+            "places": [
+                {
+                    "name": "Nanda Devi",
+                    "description": "The second highest mountain in India.",
+                    "latitude": 30.3496,
+                    "longitude": 79.9572,
+                    "exact_location": "Nanda Devi, Uttarakhand"
+                }
+            ]
+        },
+        {
+            "city": "Nepal",
+            "places": [
+                {
+                    "name": "Dhaulagiri",
+                    "description": "The seventh highest mountain in the world.",
+                    "latitude": 28.6967,
+                    "longitude": 83.4878,
+                    "exact_location": "Dhaulagiri, Nepal"
+                }
+            ]
+        },
+        {
+            "city": "Nepal",
+            "places": [
+                {
+                    "name": "Makalu",
+                    "description": "The fifth highest mountain in the world.",
+                    "latitude": 27.8897,
+                    "longitude": 87.0883,
+                    "exact_location": "Makalu, Nepal"
+                }
+            ]
+        },
+        {
+            "city": "Nepal-Tibet Border",
+            "places": [
+                {
+                    "name": "Lhotse",
+                    "description": "The fourth highest mountain in the world.",
+                    "latitude": 27.9617,
+                    "longitude": 86.9330,
+                    "exact_location": "Lhotse, Nepal-Tibet Border"
+                }
+            ]
+        },
+        {
+            "city": "Tibet",
+            "places": [
+                {
+                    "name": "Shishapangma",
+                    "description": "The 14th highest mountain in the world.",
+                    "latitude": 28.4265,
+                    "longitude": 84.5128,
+                    "exact_location": "Shishapangma, Tibet"
+                }
+            ]
+        },
+        {
+            "city": "Japan",
+            "places": [
+                {
+                    "name": "Mount Fuji",
+                    "description": "The highest peak in Japan and a popular cultural symbol.",
+                    "latitude": 35.3606,
+                    "longitude": 138.7274,
+                    "exact_location": "Mount Fuji, Japan"
+                }
+            ]
+        },
+        {
+            "city": "Alaska",
+            "places": [
+                {
+                    "name": "Denali",
+                    "description": "The highest peak in North America.",
+                    "latitude": 63.0695,
+                    "longitude": -151.0064,
+                    "exact_location": "Denali, Alaska"
+                }
+            ]
+        },
+        {
+            "city": "Switzerland-Italy Border",
+            "places": [
+                {
+                    "name": "Matterhorn",
+                    "description": "One of the most iconic peaks in the Alps.",
+                    "latitude": 45.9763,
+                    "longitude": 7.6586,
+                    "exact_location": "Matterhorn, Switzerland-Italy Border"
+                }
+            ]
+        },
+        {
+            "city": "France-Italy Border",
+            "places": [
+                {
+                    "name": "Mont Blanc",
+                    "description": "The highest mountain in the Alps.",
+                    "latitude": 45.8326,
+                    "longitude": 6.8652,
+                    "exact_location": "Mont Blanc, France-Italy Border"
+                }
+            ]
+        },
+        {
+            "city": "Antarctica",
+            "places": [
+                {
+                    "name": "Vinson Massif",
+                    "description": "The highest peak in Antarctica.",
+                    "latitude": -78.5275,
+                    "longitude": -85.6167,
+                    "exact_location": "Vinson Massif, Antarctica"
+                }
+            ]
+        },
+        {
+            "city": "Russia",
+            "places": [
+                {
+                    "name": "Mount Elbrus",
+                    "description": "The highest mountain in Europe.",
+                    "latitude": 43.3550,
+                    "longitude": 42.4453,
+                    "exact_location": "Mount Elbrus, Russia"
+                }
+            ]
+        },
+        {
+            "city": "Argentina",
+            "places": [
+                {
+                    "name": "Aconcagua",
+                    "description": "The highest peak in South America.",
+                    "latitude": -32.6532,
+                    "longitude": -70.0109,
+                    "exact_location": "Aconcagua, Argentina"
+                }
+            ]
+        },
+        {
+            "city": "Australia",
+            "places": [
+                {
+                    "name": "Mount Kosciuszko",
+                    "description": "The highest peak in Australia.",
+                    "latitude": -36.4554,
+                    "longitude": 148.2638,
+                    "exact_location": "Mount Kosciuszko, Australia"
+                }
+            ]
+        }
+    ]
+}

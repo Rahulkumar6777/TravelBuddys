@@ -1,0 +1,184 @@
+{
+    "beaches": [
+        {
+            "city": "Goa",
+            "places": [
+                {
+                    "name": "Baga Beach",
+                    "description": "One of the most popular beaches in Goa.",
+                    "latitude": 15.5527,
+                    "longitude": 73.7517,
+                    "exact_location": "Baga Beach Road, Baga, Goa"
+                },
+                {
+                    "name": "Calangute Beach",
+                    "description": "The queen of beaches in Goa.",
+                    "latitude": 15.5430,
+                    "longitude": 73.7550,
+                    "exact_location": "Calangute, Goa"
+                }
+            ]
+        },
+        {
+            "city": "Digha",
+            "places": [
+                {
+                    "name": "New Digha Beach",
+                    "description": "A popular tourist destination in West Bengal.",
+                    "latitude": 21.6254,
+                    "longitude": 87.5295,
+                    "exact_location": "New Digha, Digha, West Bengal"
+                }
+            ]
+        },
+        {
+            "city": "Mumbai",
+            "places": [
+                {
+                    "name": "Juhu Beach",
+                    "description": "A popular beach known for its vibrant atmosphere.",
+                    "latitude": 19.0896,
+                    "longitude": 72.8347,
+                    "exact_location": "Juhu Beach, Juhu, Mumbai"
+                },
+                {
+                    "name": "Versova Beach",
+                    "description": "Known for its quieter environment compared to Juhu.",
+                    "latitude": 19.1440,
+                    "longitude": 72.8270,
+                    "exact_location": "Versova Beach, Versova, Mumbai"
+                }
+            ]
+        },
+        {
+            "city": "Kerala",
+            "places": [
+                {
+                    "name": "Varkala Beach",
+                    "description": "Known for its cliffs and mineral springs.",
+                    "latitude": 8.7434,
+                    "longitude": 76.5981,
+                    "exact_location": "Varkala Beach, Varkala, Kerala"
+                },
+                {
+                    "name": "Kovalam Beach",
+                    "description": "Famous for its crescent-shaped beaches and lighthouses.",
+                    "latitude": 8.3982,
+                    "longitude": 76.9934,
+                    "exact_location": "Kovalam Beach, Kovalam, Kerala"
+                }
+            ]
+        },
+        {
+            "city": "Alibaug",
+            "places": [
+                {
+                    "name": "Alibaug Beach",
+                    "description": "A popular beach with a relaxed atmosphere.",
+                    "latitude": 18.6402,
+                    "longitude": 72.8337,
+                    "exact_location": "Alibaug Beach, Alibaug"
+                }
+            ]
+        },
+        {
+            "city": "Chennai",
+            "places": [
+                {
+                    "name": "Marina Beach",
+                    "description": "One of the longest urban beaches in India.",
+                    "latitude": 13.0482,
+                    "longitude": 80.2796,
+                    "exact_location": "Marina Beach Road, Chennai"
+                }
+            ]
+        },
+        {
+            "city": "Pondicherry",
+            "places": [
+                {
+                    "name": "Pondicherry Beach",
+                    "description": "Known for its French colonial architecture and beautiful beaches.",
+                    "latitude": 11.9340,
+                    "longitude": 79.8301,
+                    "exact_location": "Pondicherry Beach, Pondicherry"
+                }
+            ]
+        },
+        {
+            "city": "Karnataka",
+            "places": [
+                {
+                    "name": "Gokarna Beach",
+                    "description": "A quieter alternative to Goa beaches with religious significance.",
+                    "latitude": 14.5547,
+                    "longitude": 74.3111,
+                    "exact_location": "Gokarna Beach, Gokarna, Karnataka"
+                }
+            ]
+        },
+        {
+            "city": "Bali",
+            "places": [
+                {
+                    "name": "Kuta Beach",
+                    "description": "Famous for its surfing and vibrant nightlife.",
+                    "latitude": -8.7191,
+                    "longitude": 115.1692,
+                    "exact_location": "Kuta Beach, Kuta, Bali"
+                },
+                {
+                    "name": "Seminyak Beach",
+                    "description": "Known for its upscale resorts and dining options.",
+                    "latitude": -8.6900,
+                    "longitude": 115.1687,
+                    "exact_location": "Seminyak Beach, Seminyak, Bali"
+                },
+                {
+                    "name": "Nusa Dua Beach",
+                    "description": "Renowned for its luxury resorts and pristine sand.",
+                    "latitude": -8.8094,
+                    "longitude": 115.2284,
+                    "exact_location": "Nusa Dua Beach, Nusa Dua, Bali"
+                }
+            ]
+        },
+        {
+            "city": "Langkawi",
+            "places": [
+                {
+                    "name": "Langkawi Beach",
+                    "description": "Famous for its white sand and crystal-clear waters.",
+                    "latitude": 6.3167,
+                    "longitude": 99.8333,
+                    "exact_location": "Langkawi Beach, Langkawi"
+                }
+            ]
+        },
+        {
+            "city": "Phuket",
+            "places": [
+                {
+                    "name": "Patong Beach",
+                    "description": "Known for its nightlife and bustling atmosphere.",
+                    "latitude": 7.8958,
+                    "longitude": 98.2897,
+                    "exact_location": "Patong Beach, Patong, Phuket"
+                }
+            ]
+        },
+        {
+            "city": "Cambodia",
+            "places": [
+                {
+                    "name": "Sihanoukville Beach",
+                    "description": "Known for its relaxed environment and beautiful coastline.",
+                    "latitude": 10.6167,
+                    "longitude": 103.5167,
+                    "exact_location": "Sihanoukville Beach, Sihanoukville"
+                }
+            ]
+        }
+    ]
+
+}
